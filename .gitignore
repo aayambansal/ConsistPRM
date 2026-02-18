@@ -1,0 +1,23 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+missfont.log
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Archives
+*.zip
